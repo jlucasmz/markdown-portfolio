@@ -22,4 +22,11 @@ This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 Vamos escrever qualquer coisa
 =======
 Alterações na nuvem
+<<<<<<< HEAD
 >>>>>>> 802149e7744372c5262afd7a9c2758772eea7d97
+=======
+
+Segunda alteração na nuvem
+
+
+>>>>>>> fc2ee4b2b04a483c9d749b0978534fce3026a0bb
