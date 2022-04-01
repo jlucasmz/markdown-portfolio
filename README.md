@@ -18,4 +18,8 @@ I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
+<<<<<<< HEAD
 Vamos escrever qualquer coisa
+=======
+Alterações na nuvem
+>>>>>>> 802149e7744372c5262afd7a9c2758772eea7d97
