@@ -32,4 +32,5 @@ Segunda alteração na nuvem
 >>>>>>> fc2ee4b2b04a483c9d749b0978534fce3026a0bb
 
 4ª alteração local
+lteração local
 
